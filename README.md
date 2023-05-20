@@ -1,3 +1,4 @@
+<html>
 <h1>Malachi</h1>
 <br>
 <h2><em>coursera test respository</em></h2>
@@ -5,3 +6,4 @@
 <button>login</button>
 <br>
 <button>sign up</button>
+</html>
